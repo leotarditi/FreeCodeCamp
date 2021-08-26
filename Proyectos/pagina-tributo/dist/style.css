@@ -1,0 +1,16 @@
+#main {
+  margin: 10px 10px 10px 10px;
+}
+
+#title {
+  text-align: center;
+}
+
+#img-div{
+  text-align: center;
+}
+
+#image {
+  max-width: 100%;
+  display: block;
+}
